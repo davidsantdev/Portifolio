@@ -22,7 +22,7 @@ import DropdownMenuSeparator from "./ui/dropdown-menu/DropdownMenuSeparator.vue"
           />
           <div class="flex-col flex">
             <Button variant="link">
-              <a href="" class="flex gap-2">
+              <a href="https://github.com/davidsantdev" class="flex gap-2">
                 <Github class="mt-1" /> Davidsantdev</a
               ></Button
             >
@@ -38,7 +38,10 @@ import DropdownMenuSeparator from "./ui/dropdown-menu/DropdownMenuSeparator.vue"
           </Button>
 
           <Button variant="link">
-            <a href="" class="flex gap-2">
+            <a
+              href="https://www.linkedin.com/in/davidsantdev/"
+              class="flex gap-2"
+            >
               <Linkedin class="mt-1" />
               LinkedIn
             </a>
@@ -47,7 +50,7 @@ import DropdownMenuSeparator from "./ui/dropdown-menu/DropdownMenuSeparator.vue"
           <Button variant="link">
             <a href="" class="flex gap-2">
               <User class="mt-1" />
-              Sobre mim
+              <RouterLink to="/Sobre"> Sobre mim </RouterLink>
             </a>
           </Button>
         </div>

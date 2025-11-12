@@ -13,9 +13,11 @@ import { Github, Instagram, Linkedin } from "lucide-vue-next";
         </p>
       </div>
       <div class="flex gap-4">
-        <Linkedin />
-        <Instagram />
-        <Github />
+        <a href="https://www.linkedin.com/in/davidsantdev/"><Linkedin /> </a>
+
+        <a href="https://www.instagram.com/davdev.br/"> <Instagram /></a>
+
+        <a href="https://github.com/davidsantdev"> <Github /></a>
       </div>
     </footer>
   </div>
