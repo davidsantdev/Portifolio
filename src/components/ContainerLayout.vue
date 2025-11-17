@@ -5,7 +5,7 @@ import Header from "./Header.vue";
 
 <template>
   <div
-    class="md:min-h-screen md:bg-[url('@/assets/img/backm.jpg')] bg-cover bg-center"
+    class="md:min-h-screen md:bg-[url('@/assets/img/back.jpg')] bg-cover bg-center"
   >
     <Header />
 
