@@ -2,11 +2,10 @@
 
 <template>
   <div>
-    <h2 class="font-bold text-[45px] text-[#1B1B56] text-center py-4">
-      Projetos
-    </h2>
+    <div></div>
+    <h2 class="font-bold text-[45px] text-[#1B1B56] text-center">Projetos</h2>
 
-    <div class="w-[100%] flex justify-center items-center gap-5 flex-wrap">
+    <div class="w-[100%] flex justify-center items-center gap-2 flex-wrap">
       <a href="https://davnner-juice.vercel.app/">
         <div
           class="w-55 md:w-70 border shadow border-slate-300 rounded-[20px] h-110"
@@ -16,6 +15,7 @@
             src="../assets/img/p1.jpg"
             alt=""
           />
+
           <div class="p-4">
             <h2 class="font-bold text-[20px] md:text-[25px] text-[#1B1B56]">
               Davnner Juice

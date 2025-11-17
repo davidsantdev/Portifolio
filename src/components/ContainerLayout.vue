@@ -9,8 +9,8 @@ import Header from "./Header.vue";
   >
     <Header />
 
-    <div class="justify-center mt-20 block md:flex justify-between">
-      <div class="w-[70%] md:w-[40%]">
+    <div class="justify-center mt-20 block md:flex">
+      <div class="w-[70%] md:w-[40%] ml-10">
         <p class="text-[#5250D2] text-[20px] flex">
           <span> <Minus class="mt-1" /> </span> Dev Front-end
         </p>

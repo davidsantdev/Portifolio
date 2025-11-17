@@ -11,7 +11,7 @@ const animationPath = new URL("@/assets/img/fame.json", import.meta.url).href;
   <div class="bg-[#4A4CFF] h-120">
     <Header class="text-white" />
     <div class="justify-center pt-20 block md:flex justify-between flex-wrap">
-      <div class="w-[100%] md:w-[40%]">
+      <div class="w-[100%] md:w-[40%] text-center">
         <p class="text-white text-[20px] flex">
           <span> <Minus class="mt-1" /> </span> Meus Projetos
         </p>
