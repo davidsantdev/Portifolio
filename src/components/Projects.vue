@@ -97,7 +97,7 @@
         </div>
       </a>
 
-      <a href="https://davcine-7c3t.vercel.app/">
+      <a href="https://davcine-main.vercel.app/">
         <div
           class="w-55 md:w-70 border shadow border-slate-300 rounded-[20px] h-110"
         >
