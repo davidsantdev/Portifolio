@@ -2,7 +2,7 @@
 import Davcine from "@/components/Davcine.vue";
 import Intell from "@/components/intell.vue";
 import Kley from "@/components/kley.vue";
-import Lear from "@/pages/lear.vue";
+import Lear from "@/components/lear.vue";
 </script>
 
 <template>
@@ -10,7 +10,7 @@ import Lear from "@/pages/lear.vue";
     <div></div>
     <h2 class="font-bold text-[45px] text-[#1B1B56] text-center p-6">Projetos</h2>
 
-    <div class="w-[100%] flex justify-center p-5 items-center gap-4 flex-wrap">
+    <div class="w-[100%] flex-col  md:flex-row flex justify-center p-5 items-center gap-6 flex-wrap">
 
 
       <kley/>

@@ -13,10 +13,10 @@ import { Github } from "lucide-vue-next";
       <DialogTrigger as-child>
 
         <div
-            class="w-55 md:w-70 border shadow border-slate-300 rounded-[20px] h-80"
+            class="w-[100%] md:w-70 flex items-center flex-col border shadow border-slate-300 rounded-[20px] "
         >
           <img
-              class="w-70 rounded-t-[20px]"
+              class="w-[70%] md-70 rounded-t-[20px]"
               src="../assets/img/p2.jpg"
               alt=""
           />
