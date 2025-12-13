@@ -18,7 +18,7 @@ import Footer from "./Footer.vue";
         <button class="p-2 mt-10 bg-[#4A4CFF] w-50 text-white rounded-[10px]">
           <a
             class="flex justify-center items-center gap-2"
-            href="../assets/img/Currículo (1).pdf"
+            href="/src/assets/img/cv.pdf"
             download="David-Santos-CV.pdf"
           >
             Baixar CV <span> <Download /></span>
@@ -32,6 +32,6 @@ import Footer from "./Footer.vue";
       </div>
     </div>
 
-    <Footer />
+
   </div>
 </template>

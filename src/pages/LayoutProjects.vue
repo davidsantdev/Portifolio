@@ -12,5 +12,6 @@ import Scroll from "@/components/Scroll.vue";
 
     <Footer />
     <Scroll />
+
   </div>
 </template>
