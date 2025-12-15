@@ -47,8 +47,9 @@ import { Github } from "lucide-vue-next";
 
           <img src="../assets/img/Captura%20de%20tela%202025-12-13%20131757.png" alt="" class="border-4 border-slate-300">
           <div class="flex gap-3">
-            <button class="w-30 bg-slate-200 p-1 border-2 border-slate-300 flex gap-3"> <SquareArrowOutUpRight :size="17" class="mt-1"/>   WebSite</button>
-            <button class="w-30 bg-slate-200 p-1 border-2 border-slate-300 flex gap-3"> <github :size="17" class="mt-1"/>   Codigo</button>
+            <a href="https://intell-vue.vercel.app/">  <button class="w-30 bg-slate-200 p-1 border-2 border-slate-300 flex gap-3"> <SquareArrowOutUpRight :size="17" class="mt-1"/>   WebSite     </button> </a>
+            <a href="https://github.com/davidsantdev/intell_vue"> <button class="w-30 bg-slate-200 p-1 border-2 border-slate-300 flex gap-3">  <github :size="17" class="mt-1"/>    Codigo</button> </a>
+
 
           </div>
 
